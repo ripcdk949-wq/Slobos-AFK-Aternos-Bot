@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "DunaMc.aternos.me",
+    "port": 58590,
     "version": "",
     "try-creative": false
   },
